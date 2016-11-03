@@ -62,7 +62,7 @@
 
 <h2 id="kuxuan">kuxuan</h2>
 
-[demo](https://allennic.github.io/demo/hyml5%E6%92%AD%E6%94%BE%E5%99%A8/)
+[demo](https://allennic.github.io/demo/kuxuan/)
 
 <h2 id="tagcloud">tagcloud</h2>
 
